@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/AKTestingProject/static/css/main.3601e45f.chunk.css",
+    "main.js": "/AKTestingProject/static/js/main.0e8231f3.chunk.js",
+    "main.js.map": "/AKTestingProject/static/js/main.0e8231f3.chunk.js.map",
+    "runtime-main.js": "/AKTestingProject/static/js/runtime-main.559be4cb.js",
+    "runtime-main.js.map": "/AKTestingProject/static/js/runtime-main.559be4cb.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/AKTestingProject/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.bf80dd39.chunk.js": "/AKTestingProject/static/js/2.bf80dd39.chunk.js",
+    "static/js/2.bf80dd39.chunk.js.map": "/AKTestingProject/static/js/2.bf80dd39.chunk.js.map",
+    "index.html": "/AKTestingProject/index.html",
+    "precache-manifest.55c4129d4354b2227f82ee1f07b9aebc.js": "/AKTestingProject/precache-manifest.55c4129d4354b2227f82ee1f07b9aebc.js",
+    "service-worker.js": "/AKTestingProject/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/AKTestingProject/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.3601e45f.chunk.css.map": "/AKTestingProject/static/css/main.3601e45f.chunk.css.map",
+    "static/js/2.bf80dd39.chunk.js.LICENSE": "/AKTestingProject/static/js/2.bf80dd39.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.559be4cb.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.bf80dd39.chunk.js",
+    "static/css/main.3601e45f.chunk.css",
+    "static/js/main.0e8231f3.chunk.js"
+  ]
+}
