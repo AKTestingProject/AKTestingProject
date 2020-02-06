@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AKTestingProject/static/css/main.6621e84b.chunk.css",
-    "main.js": "/AKTestingProject/static/js/main.d5b1a03b.chunk.js",
-    "main.js.map": "/AKTestingProject/static/js/main.d5b1a03b.chunk.js.map",
+    "main.js": "/AKTestingProject/static/js/main.e24708d6.chunk.js",
+    "main.js.map": "/AKTestingProject/static/js/main.e24708d6.chunk.js.map",
     "runtime-main.js": "/AKTestingProject/static/js/runtime-main.559be4cb.js",
     "runtime-main.js.map": "/AKTestingProject/static/js/runtime-main.559be4cb.js.map",
     "static/css/2.47e06e2e.chunk.css": "/AKTestingProject/static/css/2.47e06e2e.chunk.css",
     "static/js/2.22666d9f.chunk.js": "/AKTestingProject/static/js/2.22666d9f.chunk.js",
     "static/js/2.22666d9f.chunk.js.map": "/AKTestingProject/static/js/2.22666d9f.chunk.js.map",
     "index.html": "/AKTestingProject/index.html",
-    "precache-manifest.ef11fd34558691ce5ae3f39cc887ce54.js": "/AKTestingProject/precache-manifest.ef11fd34558691ce5ae3f39cc887ce54.js",
+    "precache-manifest.ea520db5d7798199ec1f84f7ffef589e.js": "/AKTestingProject/precache-manifest.ea520db5d7798199ec1f84f7ffef589e.js",
     "service-worker.js": "/AKTestingProject/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/AKTestingProject/static/css/2.47e06e2e.chunk.css.map",
     "static/css/main.6621e84b.chunk.css.map": "/AKTestingProject/static/css/main.6621e84b.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.22666d9f.chunk.js",
     "static/css/main.6621e84b.chunk.css",
-    "static/js/main.d5b1a03b.chunk.js"
+    "static/js/main.e24708d6.chunk.js"
   ]
 }
